@@ -139,7 +139,7 @@ Developed with ❤️ for advancing privacy-preserving AI technologies
 ## 🔗 Links
 
 - **Live App:** [https://pii-privacy-app.streamlit.app/](https://pii-privacy-app.streamlit.app/)
-- **GitHub Repository:** [Your Repo URL]
+- **GitHub Repository:** [[Your Repo URL]](https://github.com/HaswanthVIT/pii-privacy-app)
 - **Documentation:** [Streamlit Docs](https://docs.streamlit.io)
 
 ## 📧 Contact
