@@ -8,6 +8,10 @@ An AI-powered privacy protection system that detects Personally Identifiable Inf
 
 **Try it now:** [https://pii-privacy-app.streamlit.app/](https://pii-privacy-app.streamlit.app/)
 
+## 🏗️ AWS Pipeline Architecture
+
+![AWS Pipeline Architecture](https://raw.githubusercontent.com/HaswanthVIT/pii-privacy-app/main/AWS-PII-Architecture-Diagram.png)
+
 ## Features
 
 ### 1️⃣ AI-Powered PII Detection
