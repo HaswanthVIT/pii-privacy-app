@@ -4,6 +4,8 @@
 
 An AI-powered privacy protection system that detects Personally Identifiable Information (PII) in text and images, then applies quantum-inspired privacy scoring and post-quantum cryptography (PQC) encryption.
 
+[![Demo Drive](https://img.shields.io/badge/Demo-Google%20Drive-green?logo=google-drive)](https://drive.google.com/drive/folders/1TqMvqNkHZtyQxz7UKHxHSbr6f1Lqs0Dj)
+
 ## 🚀 Live Demo
 
 **Try it now:** [https://pii-privacy-app.streamlit.app/](https://pii-privacy-app.streamlit.app/)
