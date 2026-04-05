@@ -5,7 +5,10 @@
 
 An AI-powered privacy protection system that detects Personally Identifiable Information (PII) in text and images, then applies quantum-inspired privacy scoring and post-quantum cryptography (PQC) encryption.
 
+## 🎥 Demo
 
+Access the demo files and walkthrough here:  
+👉 https://drive.google.com/drive/folders/1TqMvqNkHZtyQxz7UKHxHSbr6f1Lqs0Dj
 
 ## 🚀 Live Demo
 
